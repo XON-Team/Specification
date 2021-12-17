@@ -24,11 +24,11 @@ XON:
 html {
   head {
     title "This is a title!"
-    /img src="path/to/image.png"
   }
   body {
     div class="text" {
       p "Hello, world!"
+      /img src="path/to/image.png"
     }
   }
 }
