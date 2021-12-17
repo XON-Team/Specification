@@ -1,1 +1,1 @@
-# eXtensible Object Notation specification:
+# eXtensible Object Notation specification
