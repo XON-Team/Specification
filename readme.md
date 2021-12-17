@@ -13,6 +13,7 @@ The XON Project exists to provide web developers a compact format in order to in
 The beginning of an XON file may include a DTD, which specifies the use of the file.
 ### 2. Tags
 A tag is a string of characters, excluding white-space, that act as the name of the element.
+  - Empty element tags must begin with `/`
 ### 3. Attributes
 Attributes act as key-value pairs, defining data that the parser uses for the element.
 
