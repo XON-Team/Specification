@@ -24,6 +24,7 @@ XON:
 html {
   head {
     title "This is a title!"
+    /img src="path/to/image.png"
   }
   body {
     div class="text" {
@@ -42,6 +43,7 @@ XML:
   <body>
     <div class="text">
       <p>Hello, world!</p>
+      <img src="path/to/image.png" />
     </div>
   </body>
 </html>
